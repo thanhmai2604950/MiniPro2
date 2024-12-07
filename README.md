@@ -1,5 +1,10 @@
 Câu 1
-![image alt](https://github.com/thanhmai2604950/Minipro-/blob/8845885fc54ccb8764f715ced71bd3ff6a18a957/README.md/Screenshot%202024-12-03%20141118.png?raw=true)
+![image alt](https://github.com/thanhmai2604950/MiniPro2/blob/1233aa5f80b4d34fd1ff2efdea12144dacbf9ac1/Readme/Screenshot%202024-12-07%20144231.png?raw=true)
 Câu 2
-![image alt](https://github.com/thanhmai2604950/Minipro-/blob/92252485bc18bb5c438cc23eebca5e27a8a684a9/README.md/Screenshot%202024-12-03%20141224.png?raw=true)
-![image alt](https://github.com/thanhmai2604950/Minipro-/blob/92252485bc18bb5c438cc23eebca5e27a8a684a9/README.md/Screenshot%202024-12-03%20141254.png?raw=true)
+![image alt](https://github.com/thanhmai2604950/MiniPro2/blob/1233aa5f80b4d34fd1ff2efdea12144dacbf9ac1/Readme/Screenshot%202024-12-07%20145642.png?raw=true)
+Câu 3
+![image alt](https://github.com/thanhmai2604950/MiniPro2/blob/1233aa5f80b4d34fd1ff2efdea12144dacbf9ac1/Readme/Screenshot%202024-12-07%20151031.png?raw=true)
+Câu 4
+![image alt](https://github.com/thanhmai2604950/MiniPro2/blob/1233aa5f80b4d34fd1ff2efdea12144dacbf9ac1/Readme/Screenshot%202024-12-07%20152526.png)
+Câu 5
+![image alt](https://github.com/thanhmai2604950/MiniPro2/blob/1233aa5f80b4d34fd1ff2efdea12144dacbf9ac1/Readme/Screenshot%202024-12-07%20153239.png)
